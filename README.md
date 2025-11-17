@@ -9,7 +9,7 @@
 *Saida de informação;
 *Declaração de vetores e acesso dos seus elementos;
 
-#:wink: como executa 
+# :wink: como executa 
 * Em nossa aula, usamos a ferramenta online Online c++ compliler, presente no link:
 <a href="https://www.onlinegdb.com/online_c++_compiler"> Online c++ compiler </a>
 
